@@ -47,4 +47,4 @@ A command-line based helpdesk ticketing system built with **Python** and **SQLit
 
 ```bash
 git clone https://github.com/18mk04/-Helpdesk_ticketing_system
-cd helpdesk-ticketing-system
+cd -Helpdesk-ticketing-system
